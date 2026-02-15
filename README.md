@@ -12,7 +12,7 @@ You can view my introduction video using either of the links below:
 
 ### 1. Direct GitHub Playback
 For the best experience on desktop, you can view the video directly within this repository.
-* **[Click here to view the Video File](./intro-video.mp4)**
+* **[Click here to view the Video File](https://github.com/KhushangSingh/Self-Introduction/blob/main/Introduction.mp4)**
 
 ### 2. Google Drive Mirror
 If you encounter buffering issues or are on a device with limited playback support, you can access the video via Google Drive.
