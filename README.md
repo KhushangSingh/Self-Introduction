@@ -3,16 +3,6 @@
 
 This repository contains my 2-minute video introduction designed for placement and professional outreach. It is a walkthrough of my journey as a UI/UX Designer and Web Developer. This video highlights my approach to building user-centric applications and my technical foundation in Computer Science.
 
-<div align="center">
-  <video 
-    src="https://github.com/user-attachments/assets/5f306c52-5d64-4e54-aec3-a3dbc9695cf5" 
-    width="100%" 
-    controls 
-    poster="https://github.com/KhushangSingh/Self-Introduction/blob/main/Thumbnail.jpg?raw=true">
-    Your browser does not support the video tag.
-  </video>
-</div>
-
 ---
 
 ## 📺 How to Watch
