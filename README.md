@@ -8,7 +8,7 @@ This repository contains my 2-minute video introduction designed for placement a
     src="https://github.com/user-attachments/assets/5f306c52-5d64-4e54-aec3-a3dbc9695cf5" 
     width="100%" 
     controls 
-    poster="https://github.com/KhushangSingh/Self-Introduction/blob/main/Frame%201.jpg?raw=true">
+    poster="https://github.com/KhushangSingh/Self-Introduction/blob/main/Thumbnail.jpg?raw=true">
     Your browser does not support the video tag.
   </video>
 </div>
