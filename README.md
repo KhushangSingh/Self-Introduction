@@ -16,7 +16,7 @@ For the best experience on desktop, you can view the video directly within this 
 
 ### 2. Google Drive Mirror
 If you encounter buffering issues or are on a device with limited playback support, you can access the video via Google Drive.
-* **[Watch on Google Drive](https://link-to-your-google-drive.com)**
+* **[Watch on Google Drive]([https://link-to-your-google-drive.com](https://drive.google.com/file/d/1w7TdIwcxkNEV8azZp9R-X4kZ5nyzowID/view?usp=sharing))**
 
 ---
 
