@@ -4,6 +4,10 @@ Welcome to my repository! I am a **UI/UX Designer and Web Developer** currently 
 
 This repository contains my 2-minute video introduction designed for placement and professional outreach. It is a walkthrough of my journey as a UI/UX Designer and Web Developer. This video highlights my approach to building user-centric applications and my technical foundation in Computer Science.
 
+
+Uploading Introduction.mp4…
+
+
 ---
 
 ## 📺 How to Watch
@@ -16,7 +20,7 @@ For the best experience on desktop, you can view the video directly within this 
 
 ### 2. Google Drive Mirror
 If you encounter buffering issues or are on a device with limited playback support, you can access the video via Google Drive.
-* **[Watch on Google Drive]([https://link-to-your-google-drive.com](https://drive.google.com/file/d/1w7TdIwcxkNEV8azZp9R-X4kZ5nyzowID/view?usp=sharing))**
+* **[Watch on Google Drive](https://drive.google.com/file/d/1w7TdIwcxkNEV8azZp9R-X4kZ5nyzowID/view?usp=sharing)**
 
 ---
 
