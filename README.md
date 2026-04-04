@@ -11,7 +11,7 @@ You can view my introduction video using either of the links below:
 
 ### 1. Direct GitHub Playback
 Download and view the video directly from this repository.
-* <a href="https://github.com/KhushangSingh/Self-Introduction/blob/main/Introduction.mp4" target="_blank">**View the Video File**</a>
+* <a href="https://github.com/KhushangSingh/Self-Introduction/blob/main/Introduction_23BCE10425_KhushangSingh.mp4" target="_blank">**View the Video File**</a>
 
 ### 2. Google Drive
 * <a href="https://drive.google.com/file/d/1w7TdIwcxkNEV8azZp9R-X4kZ5nyzowID/view?usp=sharing" target="_blank">**Watch on Google Drive**</a>
